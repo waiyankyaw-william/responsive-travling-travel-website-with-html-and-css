@@ -8,4 +8,4 @@ Website Link - https://waiyankyaw-william.github.io/travling-travel-website/
 
 > Design Credit:
 >
-> Design by kristof eka. The original design can be found on Figma: [News Website Design](https://www.figma.com/community/file/1161298959495777934/travling-travel-website-landing-page).
+> Design by kristof eka. The original design can be found on Figma: [Design](https://www.figma.com/community/file/1161298959495777934/travling-travel-website-landing-page).
